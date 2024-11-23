@@ -1,0 +1,9 @@
+{
+  "label": {
+    "fontSize": "40px",
+    "display": "block",
+    "textAlign": "center",
+    "colorSuccess": "green",
+    "colorError": "red"
+  }
+}
